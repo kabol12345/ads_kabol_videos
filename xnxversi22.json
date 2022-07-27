@@ -27,7 +27,7 @@
     "NativeFan": "3849533245100855_3849537961767050",
     "BannerFan": "3849533245100855_3849537045100475",
     
-     "InterApplovinId":  "a832104eb721bbe3",
+     "InterApplovinId":  "3fe1873cf3d39860",
      "BannerApplovinId":  "b6a563740264bbca",
      "MrcApplovinId":  "a984d2767e8edbdf",
     
@@ -64,11 +64,11 @@
     
     "Unity": "0",
     
-     "appdeal": "0",
+     "appdeal": "1",
     
      "mopub": "0",
     
-     "Bidding_Applovin_Inter": "0",
+     "Bidding_Applovin_Inter": "1",
      "Bidding_Applovin_Banner": "0",
      "Bidding_Applovin_Mrc": "0",
     
