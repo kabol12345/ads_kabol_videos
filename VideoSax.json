@@ -27,7 +27,7 @@
     "NativeFan": "3849533245100855_3849537961767050",
     "BannerFan": "3849533245100855_3849537045100475",
     
-     "InterApplovinId":  "a832104eb721bbe3",
+     "InterApplovinId":  "5c6e6d825c917422",
      "BannerApplovinId":  "b6a563740264bbca",
      "MrcApplovinId":  "a984d2767e8edbdf",
     
@@ -45,7 +45,7 @@
 
     "Tipe_iklan": "2",
     
-     "Tipe_Inter": "1",
+     "Tipe_Inter": "0",
      "Tipe_Banner": "0",
      "Tipe_Native": "0",
     
@@ -60,7 +60,7 @@
     
     "Fan": "1",
     
-    "Applovin": "1",
+    "Applovin": "0",
     
     "Unity": "0",
     
@@ -68,7 +68,7 @@
     
      "mopub": "0",
     
-     "Bidding_Applovin_Inter": "0",
+     "Bidding_Applovin_Inter": "1",
      "Bidding_Applovin_Banner": "0",
      "Bidding_Applovin_Mrc": "0",
     
