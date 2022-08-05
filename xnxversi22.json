@@ -16,7 +16,7 @@
     
     "native": "ca-app-pub-3940256099942544/2247696110",
     "banner": "ca-app-pub-3940256099942544/6300978111",
-    "inter":  "ca-app-pub-3940256099942544/1033173712",
+    "inter":  "ca-app-pub-6980274459084649/6867449966",
     "appid": "ca-app-pub-3940256099942544~3347511713",
     
     "kyword": "funny videos ",
@@ -70,7 +70,7 @@
      "Bidding_Applovin_Banner": "0",
      "Bidding_Applovin_Mrc": "0",
     
-     "Bidding_Admob_Inter": "0",
+     "Bidding_Admob_Inter": "1",
      "Bidding_Admob_Banner": "0",
      "Bidding_Admob_Native": "0",
     
